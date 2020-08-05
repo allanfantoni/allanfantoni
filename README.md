@@ -1,6 +1,6 @@
 ### Hello everyone! 👋
 
-I'm Allan Fantoni, software developer @Engineering do Brasil.
+I'm Allan Fantoni, software developer at Engineering do Brasil.
 
 - 🔭 Currently working on:
   * HTML5, CSS3, JS and Bootstrap front end project.
