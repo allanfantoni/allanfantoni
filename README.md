@@ -3,11 +3,11 @@
 I'm Allan Fantoni, software developer at Engineering Brasil.
 
 - 🔭 Currently working on:
-  * HTML5, CSS3, JS and Bootstrap front end project.
+  * HTML5, CSS3, JS and Bootstrap front end project;
   * Technical specification and prototyping of a MVC structure project.
   
 - 🌱 Currently learning:
-  * Launchbase Rocketseat's Bootcamp (JS, HTML5, CSS3, Nunjucks and so on)
+  * Launchbase Rocketseat's Bootcamp (JS, HTML5, CSS3, Nunjucks and so on).
   
 - 📫 How to reach me: 
   * [![Gmail Badge](https://img.shields.io/badge/-allan.fantoni@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allan.fantoni@gmail.com)](mailto:allan.fantoni@gmail.com)
