@@ -7,6 +7,7 @@ I'm Allan Fantoni, software developer at Engineering Brasil.
   * Technical specification and prototyping of a MVC structure project.
   
 - 🌱 Currently learning:
+  * Bachelor's degree in Information Systems (Estácio de Sá University);
   * Launchbase Rocketseat's Bootcamp (JS, HTML5, CSS3, Nunjucks and so on).
   
 - 📫 How to reach me: 
