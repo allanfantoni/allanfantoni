@@ -3,7 +3,7 @@
 I'm Allan Fantoni, software developer at Engineering Brasil.
 
 - 🔭 Currently working on:
-  * HTML5, CSS3, JS and Bootstrap front end project;
+  * React.JS and TypeScript front end project;
   * Technical specification and prototyping of a MVC structure project.
   
 - 🌱 Currently learning:
