@@ -1,6 +1,6 @@
 ### Hello everyone! 👋
 
-I'm Allan Fantoni, software developer at Engineering Brasil.
+I'm Allan Fantoni, software developer at Engineering Brasil and graduated with a Bachelor's degree in Information Systems at Estácio de Sá University.
 
 - 📫 How to reach me: 
   * [![Gmail Badge](https://img.shields.io/badge/-allan.fantoni@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allan.fantoni@gmail.com)](mailto:allan.fantoni@gmail.com)
