@@ -8,7 +8,7 @@ I'm Allan Fantoni, software developer at Engineering Brasil and graduated with a
 
 ---
 
-## Coding Activity
+### Coding Activity
 
 <br/>
 
