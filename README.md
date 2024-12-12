@@ -15,6 +15,6 @@ I'm Allan Fantoni, software developer at Engineering Brasil and graduated with a
 <p align="center">
    <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanfantoni&layout=compact&theme=tokyonight&langs_count=5"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanfantoni&layout=compact&theme=transparent&langs_count=6"
     />
 </p>
