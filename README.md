@@ -5,7 +5,9 @@ I'm Allan Fantoni, software developer at Engineering Brasil and graduated with a
 - 📫 How to reach me: 
   * [![Gmail Badge](https://img.shields.io/badge/-allan.fantoni@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allan.fantoni@gmail.com)](mailto:allan.fantoni@gmail.com)
   * [![Linkedin Badge](https://img.shields.io/badge/-Allan%20Fantoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allanfantoni/)](https://www.linkedin.com/in/allanfantoni/)
-  * Rocketseat ID: <a href="https://app.rocketseat.com.br/me/allanfantoni"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=allanfantoni&type=card" width="280" alt="Allan Fantoni's Rocket ID"/></a>
+  * Rocketseat ID:
+
+    <a href="https://app.rocketseat.com.br/me/allanfantoni"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=allanfantoni&type=card" width="280" alt="Allan Fantoni's Rocket ID"/></a>
 
 ---
 
